@@ -1,0 +1,272 @@
+* {
+        padding: 0px;
+        margin: 0px;
+        box-sizing: border-box;
+        font-family: 'poppins', sans-serif;
+        text-decoration: none;
+        list-style: none;
+}
+
+.dabba {
+        height: 66px;
+        width: 100%;
+        padding: 3px;
+        background-color: rgb(57, 60, 116);
+
+
+}
+
+.baghele {
+        display: flex;
+        padding: 20px 8px;
+        float: right;
+        list-style: none;
+        font-size: 18px;
+        color: white;
+}
+
+.container1 {
+        height: 300x;
+        width: 910px;
+        padding: 60px;
+        background-color: rgb(105, 102, 172);
+        margin-left: 300px;
+        text-align: center;
+        border-radius: 5px;
+}
+
+.container {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        grid-gap: 40px;
+        text-align: center;
+        grid-auto-rows: 50px;
+
+}
+
+.dabba1 {
+        background-color: rgb(8, 104, 107);
+        padding: 15px;
+        text-align: center;
+        color: rgb(18, 1, 1);
+        border-radius: 5px;
+}
+
+.dabba2 {
+        text-decoration: none;
+        color: white;
+
+}
+
+.heading {
+        margin-left: 120px;
+}
+
+.contain {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-gap: 10px;
+        row-gap: 20px;
+        text-align: center;
+        grid-auto-rows: 150px;
+
+}
+
+.boxes {
+        background-color: rgb(184, 174, 201);
+        padding: 15px;
+        text-align: center;
+        color: rgb(18, 1, 1);
+        border-radius: 5px;
+        margin-left: 100px;
+        margin-right: 100px;
+
+}
+
+.king {
+        background-color: #787878;
+        text-align: center;
+}
+
+footer {
+        height: 260px;
+        width: 100%;
+        background-color: black;
+        color: white;
+}
+
+.footer_heading {
+        position: relative;
+        right: 600px;
+        top: 30px;
+}
+
+.footer_heading1 {
+        position: relative;
+        right: 540px;
+        top: 30px;
+}
+
+.footer_icons {
+        position: relative;
+        bottom: 45px;
+        margin-left: 1300px;
+}
+
+.add_extra {
+        text-decoration: none;
+        color: white;
+        position: relative;
+        left: 500px;
+        margin-left: 10px;
+}
+
+/* 
+        MHTCET_math_test.html
+*/
+.first {
+        color: #787878;
+        margin-left: 10px;
+
+}
+
+.second {
+        float: right;
+        margin-right: 10px;
+        position: relative;
+        bottom: 40px;
+        font-size: 15px;
+        text-decoration: none;
+}
+
+.third {
+        text-align: center;
+        height: 90px;
+        background-color: #4856bb;
+        border-radius: 3px;
+        margin-left: 10px;
+        margin-right: 10px;
+}
+
+/* 
+        box
+*/
+.box {
+        margin-left: 100px;
+        margin-right: 100px;
+        height: 100px;
+        background-color: #66a0b9;
+        text-align: center;
+}
+
+/* 
+        table
+*/
+.styled-table {
+        border-collapse: collapse;
+        margin: 25px 0;
+        font-size: 18px;
+        width: 87%;
+        text-align: center;
+        margin-left: 100px;
+
+}
+
+.styled-table thead tr {
+        background-color: #27590d;
+        color: #ffffff;
+}
+
+.styled-table th,
+.styled-table td {
+        padding: 12px 15px;
+        border: 1px solid #dddddd;
+        text-align: z;
+}
+
+.styled-table tbody tr:nth-of-type(even) {
+        background-color: #f3f3f3;
+}
+
+.styled-table tbody tr:hover {
+        background-color: #f1f1f1;
+}
+
+td {
+        font-size: 15px;
+}
+
+button {
+        border: none;
+}
+
+button:hover {
+        background-color: #5269a3;
+}
+
+button:active {
+        background-color: #da91c8;
+}
+
+/* 
+        Resister
+*/
+* {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        font-family: 'poppins', sans-serif;
+}
+
+.resister_container {
+        height: 550px;
+        width: 400px;
+        background-color: rgb(247, 242, 243);
+        border-radius: 3px;
+        border: 2px solid blue;
+        align-items: center;
+        text-align: center;
+        font-size: 18px;
+        position: relative;
+        left: 570px;
+        top: 20px;
+}
+
+.heading2 {
+        background-color: #1db3b3;
+        color: white;
+        text-align: center;
+        padding: 10px;
+        border: 1px solid blue;
+}
+
+.form {
+        margin-left: 30px;
+        position: relative;
+        top: 20px;
+}
+
+.text {
+        padding: 5px;
+}
+
+.resister_button {
+        background-color: #9c029a;
+}
+
+/* 
+       Login
+*/
+.login_container {
+        height: 380px;
+        width: 400px;
+        background-color: rgb(247, 242, 243);
+        border-radius: 3px;
+        border: 2px solid blue;
+        align-items: center;
+        text-align: center;
+        font-size: 18px;
+        position: relative;
+        left: 570px;
+        top: 20px;
+}
